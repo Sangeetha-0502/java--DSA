@@ -1,5 +1,5 @@
 
-public class bubble{
+public class Bubble_sort{
 	public static void main(String[] args) {
 		int nums[]= {6,5,3,9,1,2};
 		int temp=0;
