@@ -1,6 +1,6 @@
 package practice;
 
-public class binary_Search {
+public class Binary_Search {
 
 	public static int binsea(int[] arr, int data, int n) {
 		int left = 0;
